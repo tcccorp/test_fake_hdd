@@ -1,0 +1,5 @@
+wmi
+hashlib
+sqlite3
+termcolor
+signal

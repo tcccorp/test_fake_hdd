@@ -1,0 +1,12 @@
+{
+	"db_name":"check_disk.db",
+	"size_file":1,
+	"pourcentage_of_variation":0,
+	"buffer_hash":65536,
+	"random":true,
+	"if_no_random":"Pouet:)",
+	"recheck":100,
+	"end_after_x_error":5,
+	"check_back":false,
+	"hash_type":"md5"
+}
