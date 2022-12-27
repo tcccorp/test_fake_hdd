@@ -32,8 +32,6 @@ On DB
 
 
 config file 
-```
-
 {
 	"db_name":"check_disk.db", #name of DB
 	"size_file":1000000000, # size of the file in byte
@@ -46,5 +44,3 @@ config file
 	"check_back":false, # check from target to host
 	"hash_type":"md5" # type of hash  md5, sha1, sha256 or sha512
 }
-```
-
